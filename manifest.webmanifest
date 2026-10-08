@@ -1,0 +1,14 @@
+{
+  "name": "Rodseo M",
+  "short_name": "Rodseo M",
+  "description": "Daily-life English, one story every day.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0D1829",
+  "theme_color": "#0D1829",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
